@@ -1,0 +1,28 @@
+Admin:
+    --- 1 ---
+    username: admin
+    password: admin
+
+Manager:
+    --- 1 ---
+    username: Maria
+    passoword: 12345678Ma
+    --- 2 ---
+    username: Pepe
+    passoword: 12345678Pe
+
+Delivery crew:
+    --- 1 ---
+    username: Julia
+    passoword: 12345678Ja
+    --- 2 ---
+    username: Marcos
+    passoword: 12345678Ms
+
+Customer:
+    --- 1 ---
+    username: Julieta
+    passoword: 12345678Ja
+    --- 2 ---
+    username: Julio
+    passoword: 12345678Jo
